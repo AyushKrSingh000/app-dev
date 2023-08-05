@@ -85,7 +85,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             border: OutlineInputBorder(
                               borderRadius: BorderRadius.circular(30),
                             ),
-                            hintText: 'example@gmai.com',
+                            hintText: 'example@gmail.com',
                             hintStyle: const TextStyle(
                               color: Colors.grey,
                             ),
